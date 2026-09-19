@@ -144,7 +144,7 @@ This project was built in a controlled lab environment. A production Active Dire
 
 ## Documentation
 
-- [Concise portfolio report](docs/Windows_Server_2025_AD_DS_Portfolio_Report.pdf)
+- [Concise portfolio report](docs/Windows_Server_2025_AD_DS_Deployment_Report.pdf)
 - [Full technical walkthrough on MeetTech Notes](https://meet-tech.hashnode.dev/deploying-windows-server-2025-active-directory-domain-services-from-scratch)
 
 The long-form article is hosted on MeetTech Notes rather than duplicated in this repository. This repository keeps the recruiter-friendly overview, the concise project report, and the supporting evidence screenshots together in one place.
